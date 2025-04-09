@@ -961,7 +961,12 @@
   maintainer: David Zucker
   contact: https://github.com/davzucky/devcontainers-features-wolfi/issues
   repository: https://github.com/davzucky/devcontainers-features-wolfi
-  ociReference: ghcr.io/davzucky/devcontainers-features-wolfi  
+  ociReference: ghcr.io/davzucky/devcontainers-features-wolfi
+- name: Dev Container Features by ForWarD Software
+  maintainer: ForWarD Software
+  contact: https://github.com/forwardsoftware/devcontainer-features/issues
+  repository: https://github.com/forwardsoftware/devcontainer-features
+  ociReference: ghcr.io/forwardsoftware/devcontainer-features 
 - name: devcontainer feature to install apt dependencies defined in an `Aptfile.dev` file.
   maintainer: Viktor Schmidt
   contact: https://github.com/viktorianer/devcontainer-features/issues
